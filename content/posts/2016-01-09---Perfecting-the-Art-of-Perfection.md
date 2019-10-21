@@ -3,7 +3,7 @@ template: post
 title: Testing Title Change
 slug: /posts/perfecting-the-art-of-perfection/
 draft: false
-date: '2016-09-01T23:46:37.121Z'
+date: 2019-09-01T23:46:00.000Z
 description: >-
   Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum
   magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et
